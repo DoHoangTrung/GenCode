@@ -1,0 +1,2 @@
+# GenCode
+BangDieu
