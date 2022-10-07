@@ -1,0 +1,26 @@
+STT = STT = 1 = decimal
+Loại hình phiên thầu = Session_Type_Text = 1 = string
+TCPH = Issuer_Name = 1 = string
+Số CV/ số CV liên quan HNX = Hnx_Document_No = 1 = string
+Ngày CV HNX = Hnx_Document_Date = 1 = date
+Ngày ĐK = Order_Date = 1 = date
+Thời gian ĐK = Order_Time = 1 = string
+Số mức LS đặt thầu = NUM_INT_RATE = 1 = decimal
+TT nhập lệnh = Process_Status_Text = 1 = string
+Loại lệnh = Norp_Text = 1 = string
+Mã TV  = Member_Code = 1 = string
+TK NĐT = Account_No = 1 = string
+Tên NĐT = Investor_Name = 1 = string
+Loại hình NĐT = Bore_Text = 1 = string
+Số TKLK = Deposit_Amount = 1 = string
+Nơi mở TKLK = Deposit_Location = 1 = string
+Số hiệu lệnh = Order_No = 1 = string
+Số hiệu lệnh gốc = Org_Order_No = 1 = string
+Nguyên tắc làm tròn = Allocation_Round_Method_Text = 1 = string
+Loại hình đặt thầu = Is_Competitive_Text = 1 = string
+Lãi suất = Int_Rate = 1 = decimal
+KL đặt thầu = Order_Qtty = 1 = decimal
+Loại NĐT nhập phiếu = User_Type_Reg_Text = 1 = string
+Tên NĐT nhập phiếu = Created_By = 1 = string
+Kênh nhập phiếu = Allocation_Method_Text = 1 = string
+Trạng thái = Status_Text = 1 = string

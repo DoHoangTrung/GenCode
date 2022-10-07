@@ -1,0 +1,50 @@
+Tên TCPH = Issuer_Name = 1 = string
+Trạng thái = Status_Text = 1 = string
+Loại hình phiên thầu = SESSION_TYPE_TEXT = 1 = string
+Số CV TCPH = Org_Reg_Document_No = 1 = string
+Ngày CV TCPH = Org_Reg_Document_Date = 1 = date
+Số CV phát hành thêm TCPH = Auction_Document_No = 1 = string
+Ngày CV phát hành thêm TCPH = Auction_Document_Date = 1 = date
+Đợt của TCPH = Auction_No_Issue = 1 = string
+Số CV/ số CV liên quan HNX = Hnx_Document_No = 1 = string
+Ngày CV HNX = Hnx_Document_Date = 1 = date
+Đợt của HNX = Auction_No_Agent = 1 = string
+Loại TP = Stock_Type_Text = 1 = string
+Tiền tệ = Ccycde = 1 = string
+Loại hình phiên thầu = Bore_Text = 1 = string
+Ngày đấu thầu = Auction_Date = 1 = date
+Ngày công bố KQ = Announce_Date = 1 = date
+Ngày phát hành = Issue_Date = 1 = date
+Ngày TT tiền mua TP = Settlement_Date = 1 = date
+PT xác định KQ = Auction_Type_Text = 1 = string
+Hình thức ĐT = Auction_Method_Text = 1 = string
+Hình thức TP = Kind_Of_Bond_Text = 1 = string
+Thời hạn nộp phiếu dự thầu = Close_Date = 1 = date
+Thời gian nhận phiếu = Auction_Date = 1 = date
+Phương thức TT gốc TP = Payment_Method_Text = 1 = string
+Mã TP = Code = 1 = string
+Kỳ hạn = Bond_Period_Text = 1 = string
+Hình thức bán TP = Bond_Sell_Type_Text = 1 = string
+Hình thức trả lãi = Interest_Payment_Type_Text = 1 = string
+Định kỳ TL/ Định kỳ TL GĐ = Interest_Period_Text = 1 = string
+Mệnh giá = Par_Value = 1 = string
+KL gọi thầu (GT theo MG) = Par_Auction_Value = 1 = string
+Ngày đáo hạn = Due_Date = 1 = date
+Loại hình trả lãi = Interest_Type_Text = 1 = string
+Số kỳ TL giả định từ ngày TT đến ĐH = Interest_Period_Assume = 1 = string
+Kiểu trả lãi = Interest_Coupon_Type_Text = 1 = string
+Loại lãi suất = Ceiling_Int_Type_Text = 1 = string
+Loại LS tham chiếu = Int_Rate_Type_Ref_Text = 1 = string
+Biên độ lãi suất = Interest_Margin = 1 = string
+LS danh nghĩa (%/năm) = Interest_Rate = 1 = string
+Lãi suất TT/BQGQ (%/năm) = Exec_Int_Rate = 1 = string
+LS phát hành (%/năm) = Ceiling_Int_Rate = 1 = string
+LS đăng ký cao nhất = Max_Int_Rate = 1 = string
+LS đăng ký thấp nhất = Min_Int_Rate = 1 = string
+Tổng số TV tham gia = Total_Members = 1 = string
+Tổng số phiếu dự thầu = Total_Orders = 1 = string
+Tổng KL đặt thầu = Total_Orders_Value = 1 = string
+Tổng KL trúng thầu (GT theo MG) = Total_Exec_Value = 1 = string
+Tổng số tiền TT = Total_Sett_Value = 1 = string
+LS trúng thầu thấp nhất = Min_Exec_Int_Rate = 1 = string
+LS trúng thầu cao nhất = Max_Exec_Int_Rate = 1 = string

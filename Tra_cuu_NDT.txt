@@ -1,0 +1,26 @@
+<td>@item.Name</td>
+<td>@item.Account_Type_Text</td>
+<td>@item.Bore_Text</td>
+<td>@item.Group_Account_Text</td>
+<td>@item.Dorf_Text</td>
+<td class="text-right">@item.Account_No</td>
+<td>@item.Hnx_Code</td>
+<td class="text-right">@item.Deposit_Amount</td>
+<td>@item.Using_Ca_Text</td>
+<td>@item.Address</td>
+<td class="text-right">@item.Phone</td>
+<td class="text-right">@item.Fax</td>
+<td>@item.Email_Recv_Trading</td>
+<td>@item.Email_Recv_Auction</td>
+<td class="text-right">@item.Bank_Account</td>
+<td>@item.Bank_Name</td>
+<td>@item.Bank_User</td>
+<td class="text-right">@item.Identity_Card_No</td>
+<td class="text-center">@item.Identity_Card_Date.ToDateStringN0()</td>
+<td>@item.Identity_Card_Location</td>
+<td class="text-right">@item.Foundation_No</td>
+<td class="text-center">@item.Foundation_Date.ToDateStringN0()</td>
+<td>@item.Foundation_Issuer</td>
+<td class="text-right">@item.License_No</td>
+<td class="text-center">@item.License_Date.ToDateStringN0()</td>
+<td>@item.License_Issuer</td>

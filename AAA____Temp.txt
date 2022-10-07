@@ -1,0 +1,28 @@
+<td>@item.Auction_Name</td>
+<td>@item.Auction_Date.ToDateStringN0()</td>
+<td>@item.Issuer_Code</td>
+<td>@item.Issuer_Name</td>
+<td>@item.Ccycde</td>
+<td>@item.Convert_Type_Text</td>
+<td>@item.Auction_Document_No</td>
+<td>@item.Hnx_Document_No</td>
+<td>@item.BORE_TEXT</td>
+<td>@item.Member_Code</td>
+<td>@item.Member_Name</td>
+<td>@item.Deposit_Acc</td>
+<td>@item.Investor_Name</td>
+<td>@item.Dorf_Text</td>
+<td>@item.SESSION_TYPE_TEXT</td>
+<td>@item.Code_biHD</td>
+<td>@item.Remain_Day_biHD_Text</td>
+<td>@item.Code_duocHD</td>
+<td>@item.Remain_Day_duocHD_Text</td>
+<td>@item.Is_Competitive_text</td>
+<td class="text-right">@item.Int_Rate_Text</td>
+<td class="text-right">@item.Order_Value.ToNumberRate()</td>
+<td class="text-right">@(item.TOTAL_ACC_OWNER_QTTY)</td>
+<td class="text-right">@item.Exec_Int_Rate_Text</td>
+<td class="text-right">@item.TOTAL_SWAP_QTTY_FIRST_VALUE.()</td>
+<td class="text-right">@item.TOTAL_SWAP_QTTY_FIRSTS.ToNumberRate()</td>
+<td class="text-right">@item.TOTAL_SWAP_QTTY_REAL_VALUE.ToNumberRate()</td>
+<td class="text-right">@item.TOTAL_SWAP_QTTY_REALS.ToNumberRate()</td>

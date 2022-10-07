@@ -1,0 +1,10 @@
+Mã TP = Code = 1 = string
+Loại hình phiên thầu = Session_type = 1 = string
+Ngày đấu thầu = auction_date = 1 = date
+Tổng KL gọi thầu (GT theo MG) = PAR_AUCTION_VALUE = 1 = number
+LS dự thầu (thấp nhất – cao nhất) = Max_Int_Rate - Max_Int_Rate = 1 = number
+LS trúng thầu (thấp nhất – cao nhất) = Min_Exec_Int_Rate - Max_Exec_Int_Rate = 1 = number
+Lãi suất TT/BQGQ (%/năm) = Exec_Int_Rate = 1 = number
+Tổng KL trúng thầu (GT theo MG) = TOTAL_EXEC_VALUE = 1 = number
+Tổng GT trúng thầu = TOTAL_SETT_VALUE = 1 = number
+Tổng KL dự thầu (GT theo MG) = TOTAL_ORDERS_VALUE = 1 = number

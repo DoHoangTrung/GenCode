@@ -1,0 +1,24 @@
+<td class="text-center">@item.STT</td>
+<td>@item.Name_Vn</td>
+<td>@item.Short_Name</td>
+<td>@item.Code_Trade</td>
+<td>@item.Code</td>
+<td>@item.Borf_Text</td>
+<td>@item.Dorf_Text</td>
+<td>@item.Type_Text</td>
+<td>@item.Address</td>
+<td class="text-right">@item.Fax</td>
+<td>@item.Rep_Name</td>
+<td class="text-right">@item.Rep_Card_No</td>
+<td class="text-center">@item.Rep_Card_Date.ToDateStringN0()</td>
+<td>@item.Rep_Position</td>
+<td class="text-center">@item.Mbr_Accept_Date.ToDateStringN0()</td>
+<td class="text-right">@item.Bank_Account</td>
+<td>@item.Bank_Name</td>
+<td>@item.Foundation_No</td>
+<td class="text-center">@item.Foundation_Date.ToDateStringN0()</td>
+<td>@item.Foundation_Issuer</td>
+<td>@item.License_No</td>
+<td class="text-center">@item.License_Date.ToDateStringN0()</td>
+<td>@item.License_Issuer</td>
+<td>@item.Status_Text</td>

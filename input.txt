@@ -1,0 +1,36 @@
+STT = STT = 0 = decimal
+Mã trái phiếu = Stock_Code = 1 = string
+Tên TCPH = Issuer_Name = 1 = string
+Ngày đấu thầu = Auction_Date = 1 = date
+Kỳ hạn = Bond_Period_Text = 1 = string
+Loại hình phiên thầu = Session_Type_Text = 1 = string
+Số CV/Số CV liên quan HNX = Hnx_Document_No = 1 = string
+Ngày CV HNX = Hnx_Document_Date = 1 = string
+Đợt của HNX = Auction_No_Agent = 1 = string
+Thời gian đăng ký = Order_Date = 1 = date
+Mã TV = Member_Code = 1 = string
+Trạng thái nhập lệnh = Process_Status = 1 = string
+Loại lệnh = Norp = 1 = string
+Tài khoản nhà đầu tư = Account_No  = 1 = string
+Tên NĐT = Investor_Name = 1 = string
+Số TKLK = Deposit_Acc_No = 1 = string
+Nơi mở TKLK = Deposit_Location = 1 = string
+Loại hình NĐT = Bore_Text = 1 = string
+Số hiệu lệnh = Order_No = 1 = string
+Số hiệu lệnh gốc = Org_Order_No = 1 = string
+Đăng ký thầu (1/Nhiều TKLK) = Allocation_Method_Text = 1 = string
+Nguyên tắc làm tròn = Allocation_Round_Method_Text = 1 = string
+Hình thức đấu thầu = Is_Competitive_Text = 1 = string
+Hình thức phân bổ = Allocation_Type_Text = 1 = string
+KL đặt thầu = Order_Qtty = 1 = string
+LS đăng ký = Num_Int_Rate = 1 = string
+Số CV TCPH liên quan = Auction_Document_No = 1 = string
+Ngày CV TCPH = Auction_Document_Date = 1 = date
+Tên thành viên = Member_Name = 1 = string
+Ngày đáo hạn = Due_Date = 1 = date
+Ngày TL đầu tiên = First_Int_Date = 1 = date
+Loại hình trả lãi = Interest_Payment_Type = 1 = string
+Kiểu trả lãi = Interest_Coupon_Type = 1 = string
+Loại lãi suất = Interest_Rate_Type = 1 = string
+Loại NSD nhập phiếu = User_Type_Reg = 1 = string
+Tên NSD nhập phiếu = User_Name_Reg = 1 = string

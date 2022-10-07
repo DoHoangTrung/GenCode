@@ -1,0 +1,12 @@
+STT = STT
+Mã thành viên = Member_Code
+Tên thành viên = Member_Name
+TCPH = Issuer_Name
+Kỳ hạn = Bond_Period
+Khách hàng/ Thành viên  = Bore_Text
+KL dự thầu = Total_Orders_Value
+KL trúng thầu = ToTal_Exec_Value
+Lãi suất dự thầu = Min_Int_Rate, Max_Int_Rate
+Lãi suất trúng thầu = Max
+
+

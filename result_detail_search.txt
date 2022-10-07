@@ -1,0 +1,37 @@
+STT = STT = 0 = decimal
+Số CV/ số CV liên quan HNX = Hnx_Document_No = 1 = string
+Ngày CV HNX	= Hnx_Document_Date = 1 = date
+Ngày lập thông báo=Created_Date = 1 = date
+Loại hình phiên thầu=Session_Type_Text = 1 = string
+Số CV TCPH	= Auction_Document_No = 1 = string
+Ngày CV TCPH = Auction_Document_Date = 1 = date
+Số CV phát hành thêm TCPH	= Org_Reg_Document_No = 1 = string
+Ngày CV phát hành thêm TCPH 	= Org_Reg_Document_Date = 1 = date
+Ngày đấu thầu	= Auction_Date = 1 = date
+Ngày TT tiền mua TP	= Settlement_Date = 1 = date
+Hình thức ĐT = Auction_Method_Text = 1 = string
+Mã TCPH = Issuer_Code = 1 = string
+Tên TCPH = Issuer_Name = 1 = string
+Tiền tệ	= Ccycde = 1 = string
+LS danh nghĩa (%/năm) = Interest_Rate = 1 = decimal
+Ngày phát hành	= Add_Issue_Date = 1 = date
+Ngày đáo hạn = Due_Date = 1 = date
+Loại hình trả lãi 	= Interest_Type_Text = 1 = string
+Số kỳ TL giả định từ ngày TT đến ĐH	= Interest_Period_Assume = 1 = decimal
+Kiểu trả lãi	= Interest_Coupon_Type_Text = 1 = string
+Loại lãi suất	= Interest_Rate_Type_Text = 1 = string
+Loại LS tham chiếu	= Int_Rate_Type_Ref_Text = 1 = string
+Biên độ lãi suất= Interest_Margin = 1 = decimal
+Mã TV	= Code_Trade = 1 = string
+Tên TV	= Member_Name = 1 = string
+Tài khoản NĐT = Account_No = 1 = string
+Số TKLK	= Deposit_Acc = 1 = string
+Tên NĐT	= Investor_Name = 1 = string
+Loại hình NĐT= Bore_Text = 1 = string
+TN/NN	= Dorf_Text = 1 = string
+LS đặt thầu	= Int_Rate = 1 = decimal
+KL đặt thầu (GT theo MG) = Order_Value = 1 = decimal
+Lãi suất trúng thầu (%/năm)	= Exec_Int_Rate = 1 = decimal
+KL trúng thầu	= Exec_Value = 1 = decimal
+Giá trị TT= Sett_Value = 1 = decimal
+Trạng thái= Status_Text = 1 = string
